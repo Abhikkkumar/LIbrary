@@ -1,0 +1,36 @@
+body{
+    background-color: bisque;
+}
+h1{
+    text-align: center;
+    color: #180A0A;
+}
+
+hr{
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 5%;
+}
+
+
+
+.toy{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.apple{
+    text-align: center;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.form-center {
+    display:flex;
+    justify-content: center;
+  }
